@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CUcChKYuZY1058VD9K0jOddjcuXzxJK6XU7S78MS4zMYTAGvD33e5saE+v3z32HF7Flhgf8EqfhFHUNdEJ6t+g==",
+  "dgSpecHash": "0+u5CnGch/n6FeNQ9HfVW5hgUi+IVtiyvajZ6JI5Vs+tFN5E5dY/+onKDAokDK3Or9gkhiJqBl/Qc83HOCGiJA==",
   "success": true,
   "projectFilePath": "C:\\Users\\manoj\\Desktop\\Libris II\\api\\LibrisIISolution\\LibrisIIApi\\LibrisIIApi.csproj",
   "expectedPackageFiles": [
@@ -50,7 +50,11 @@
     "C:\\Users\\manoj\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.1\\system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
     "C:\\Users\\manoj\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "C:\\Users\\manoj\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\manoj\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\manoj\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }

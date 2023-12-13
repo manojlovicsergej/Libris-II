@@ -57,3 +57,4 @@ C:\Users\manoj\Desktop\Libris II\api\LibrisIISolution\LibrisIIApi\obj\Debug\net7
 C:\Users\manoj\Desktop\Libris II\api\LibrisIISolution\LibrisIIApi\obj\Debug\net7.0\LibrisIIApi.pdb
 C:\Users\manoj\Desktop\Libris II\api\LibrisIISolution\LibrisIIApi\obj\Debug\net7.0\LibrisIIApi.genruntimeconfig.cache
 C:\Users\manoj\Desktop\Libris II\api\LibrisIISolution\LibrisIIApi\obj\Debug\net7.0\ref\LibrisIIApi.dll
+C:\Users\manoj\Desktop\Libris II\api\LibrisIISolution\LibrisIIApi\obj\Debug\net7.0\LibrisIIApi.sourcelink.json
