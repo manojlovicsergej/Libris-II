@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibrisIIApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a89c7f75aa7e4c66c2f3f29478853882e41c0a68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cf98428adbf69340b9fa572a755b8a3bf276a47")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibrisIIApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibrisIIApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

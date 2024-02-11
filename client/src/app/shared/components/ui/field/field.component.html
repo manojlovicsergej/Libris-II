@@ -1,8 +1,8 @@
-<div class="field col">
-  <div class="text-left">
-    <label kodit-form-label [for]="fieldLabelFor">{{ fieldLabel }}</label>
+<div class="flex-column">
+  <div class="flex-1 mb-2">
+    <label [for]="fieldLabelFor">{{ fieldLabel }}</label>
   </div>
-  <div class="mt-2">
+  <div class="mb-3">
     <ng-content></ng-content>
   </div>
 </div>
